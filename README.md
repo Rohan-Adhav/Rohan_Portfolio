@@ -7,7 +7,7 @@ This site showcases my journey as a **Computer Engineering graduate**, my **full
 
 ## 🚀 Live Preview
 
-🔗 [rohan-adhav-portfolio.vercel.app](https://rohan-adhav-portfolio.vercel.app/)
+🔗 [rohan-adhav-portfolio.vercel.app](https://rohan-portfolio-flame.vercel.app/)
 
 ---
 

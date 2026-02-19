@@ -1,7 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <!-- Main page -->
   <url>
     <loc>https://rohan-adhav-portfolio.vercel.app/</loc>
     <lastmod>2026-02-19</lastmod>
     <priority>1.00</priority>
   </url>
+
+  <!-- About section -->
+  <url>
+    <loc>https://rohan-adhav-portfolio.vercel.app/#about</loc>
+    <lastmod>2026-02-19</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+  <!-- Projects section -->
+  <url>
+    <loc>https://rohan-adhav-portfolio.vercel.app/#projects</loc>
+    <lastmod>2026-02-19</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+  <!-- Skills section -->
+  <url>
+    <loc>https://rohan-adhav-portfolio.vercel.app/#skills</loc>
+    <lastmod>2026-02-19</lastmod>
+    <priority>0.70</priority>
+  </url>
+
+  <!-- Contact section -->
+  <url>
+    <loc>https://rohan-adhav-portfolio.vercel.app/#contact</loc>
+    <lastmod>2026-02-19</lastmod>
+    <priority>0.70</priority>
+  </url>
+
 </urlset>

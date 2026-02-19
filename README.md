@@ -7,7 +7,7 @@ This site showcases my journey as a **Computer Engineering graduate**, my **full
 
 ## 🚀 Live Preview
 
-🔗 [Live Website](https://rohan-portfolio-flame.vercel.app/)  
+🔗 [Live Website](https://rohan-adhav-portfolio.app/)  
 🔗 [GitHub Repository](https://github.com/Rohan-Adhav/Rohan_Portfolio)
 
 ---

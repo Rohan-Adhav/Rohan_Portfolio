@@ -29,11 +29,7 @@
     <priority>0.70</priority>
   </url>
 
-  <!-- Contact section -->
-  <url>
-    <loc>https://rohan-adhav-portfolio.vercel.app/#contact</loc>
-    <lastmod>2026-02-19</lastmod>
-    <priority>0.70</priority>
-  </url>
+
 
 </urlset>
+

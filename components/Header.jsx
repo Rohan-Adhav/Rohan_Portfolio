@@ -14,7 +14,7 @@ export default function Header(props) {
           alt="header-icon"
           className="header-icon"
         />
-        <p className="rohan-name">ROHAN KIRAN ADHAV</p>
+        <p className="rohan-name">ROHAN ADHAV</p>
       </div>
 
       <button
@@ -38,3 +38,4 @@ export default function Header(props) {
     </header>
   )
 }
+

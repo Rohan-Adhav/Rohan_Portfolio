@@ -20,8 +20,8 @@ export default function Contact() {
           <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
           GitHub
         </a>
-        <a href="https://rohan-adhav-portfolio.vercel.app/ target="_blank" rel="noopener noreferrer">
-          <img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio"  />
+        <a href="https://rohan-adhav-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer">
+          <img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" />
           Portfolio
         </a>
       </div>
@@ -32,7 +32,3 @@ export default function Contact() {
     </section>
   );
 }
-
-
-
-

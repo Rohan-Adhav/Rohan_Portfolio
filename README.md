@@ -1,5 +1,5 @@
 # 🌟 Rohan Adhav — Portfolio Website
-
+Developed by **Rohan Adhav – Full Stack Developer & AI Enthusiast**
 Welcome to my personal portfolio!  
 This site showcases my journey as a **Computer Engineering graduate**, my **full-stack projects**, and my passion for **AI, data, and design**. Built with a focus on clean code, modern UI/UX, and real-world impact.
 
@@ -7,13 +7,14 @@ This site showcases my journey as a **Computer Engineering graduate**, my **full
 
 ## 🚀 Live Preview
 
-🔗 [rohan-adhav-portfolio.vercel.app](https://rohan-portfolio-flame.vercel.app/)
+🔗 [Live Website](https://rohan-portfolio-flame.vercel.app/)  
+🔗 [GitHub Repository](https://github.com/Rohan-Adhav/Rohan_Portfolio)
 
 ---
 
 ## 🧰 Tech Stack
 
-- **Frontend:** HTML, CSS, JavaScript , React.js
+- **Frontend:** HTML, CSS, JavaScript, React.js  
 - **Styling:** Custom CSS, responsive layout  
 - **Deployment:** Vercel  
 - **Design Philosophy:** Minimalist, mobile-friendly, modern aesthetics
@@ -32,10 +33,7 @@ This site showcases my journey as a **Computer Engineering graduate**, my **full
 
 ## 📷 Screenshots
 
-
 ![Homepage Screenshot](.//homepage.png)
-
-
 
 ---
 
@@ -53,8 +51,9 @@ Feel free to connect or collaborate:
 
 - 📧 [rohanadhav78@gmail.com](mailto:rohanadhav78@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/rohan-adhav-s15111115)  
-- 🧑‍💻 [GitHub](https://github.com/Rohan-Adhav)  
-- 🌐 [Portfolio](https://rohan-adhav-portfolio.vercel.app/)
+- 🧑‍💻 [GitHub Profile](https://github.com/Rohan-Adhav)  
+- 🌐 [Portfolio Website](https://rohan-adhav-portfolio.vercel.app)  
+- 🔗 [Portfolio GitHub Repository](https://github.com/Rohan-Adhav/Rohan_Portfolio)
 
 ---
 
@@ -67,7 +66,3 @@ If you spot a bug or have a suggestion to improve the UX/UI, feel free to fork t
 ## 📄 License
 
 This project is open-source under the [MIT License](LICENSE).
-
-
-
-

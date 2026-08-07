@@ -74,7 +74,7 @@ export default function About() {
             whileHover={{ scale: 1.05 }}
             className="stat-box"
           >
-            <CountUp end={2} duration={2} /> Years Exp.
+            <CountUp end={1} duration={2} /> Years Exp.
           </motion.div>
         </motion.div>
 

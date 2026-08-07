@@ -359,6 +359,11 @@ nav > ul > li{
   color: #f1f1f1;
 }
 
+.about-content {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
 .about-section h2 {
   text-align: center;
   font-size: 2.5rem;

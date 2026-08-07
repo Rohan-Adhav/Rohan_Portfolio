@@ -115,8 +115,9 @@ nav > ul > li{
   nav {
     display: none;
     position: absolute;
-    top: 5rem;
+    top: 100%; /* anchors to the bottom edge of the header, whatever its actual height is */
     right: 1rem;
+    margin-top: 0.5rem;
     background: rgba(30, 30, 47, 0.95);
     backdrop-filter: blur(8px);
     border-radius: 12px;
@@ -216,9 +217,12 @@ nav > ul > li{
 
 @media (max-width: 480px) {
   header {
-    flex-direction: column;
-    height: auto;
     padding: 1rem;
+    /* header stays a row at every breakpoint -- logo/name on the left,
+       hamburger button pinned to the right, same as at 768px.
+       (Previously this switched to flex-direction: column, which pushed
+       the hamburger button onto a second row and misaligned the nav
+       dropdown underneath it -- that was the mobile menu bug.) */
   }
 
   .img-text-animation-container {
